@@ -1,0 +1,24 @@
+A Model-View-Controller (MVC) Approach
+
+1. There are three components:
+    - Model (The data element of the program)
+    - View (The user interface element of the program)
+    - Controller (The "Business Logic" of the program)
+
+2. The Model
+    - The data of the program.
+
+3. The View
+    - Requests from the Model
+    - Listens to the Model
+    - Gets data from the model
+
+    - Overall, just represents data.
+
+4. The Controller
+    - Instructs/commands the Model.
+    - Instructs/commands the View.
+    - Can listen to the Model.
+    - Can listen to the View.
+
+    - Overall, the brains of the operation.
